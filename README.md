@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-I'm a **Full Stack Developer** based in France 🇫🇷, building modern, scalable web applications with a strong focus on clean architecture and performance.
+I'm a **Full Stack Developer Consultant** from France currently based in Eindhoven NL, building modern, scalable web applications with a strong focus on clean architecture and performance.
 
-🎯 Currently working as a full stack developer and preparing for an **international VIE opportunity**.
+Currently following the **french VIE program**.
 
 ---
 
