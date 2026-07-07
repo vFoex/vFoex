@@ -80,12 +80,6 @@ Currently following the **french VIE program** at ALTEN Nederland.
 
 ---
 
-### 🎯 What I'm looking for
-- International experience (VIE)
-- Challenging open source challenges/projects
-
----
-
 ### 📫 Get in touch
 - 💼 LinkedIn: https://www.linkedin.com/in/valentin-foex
 - 📧 Email: valentinfoex@gmail.com
