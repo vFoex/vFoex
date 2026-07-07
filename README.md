@@ -2,7 +2,7 @@
 
 I'm a **Full Stack Software Engineer** from France currently based in Eindhoven NL, building modern, scalable web applications with a strong focus on clean architecture and performance.
 
-Currently following the **french VIE program**.
+Currently following the **french VIE program** at ALTEN Nederland.
 
 ---
 
